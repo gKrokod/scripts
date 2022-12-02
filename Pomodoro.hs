@@ -3,7 +3,6 @@ import Control.Concurrent
 import Text.Printf
 import Control.Monad
 import Data.Char (isDigit)
-import Lib
 
 main :: IO ()
 main = 
